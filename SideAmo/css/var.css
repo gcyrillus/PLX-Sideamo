@@ -1,0 +1,35 @@
+:root {
+	--bg-body: 			#e0d8d5;
+	--bg-header: 		lightgray;
+	--bg-aside:			#b8a9a4;
+	--bg-div:			white;
+	--bg-footer:		#d3c6c0;
+	--body-color: 		maroon;
+	--header-color:		#CB1323;
+	--rgba-color: 		rgba(255, 255, 255, 0.75);
+	--active-hover: 	#1E54A7;
+	--fade-gradient:  linear-gradient(rgba(200,200,200,0.5) ,rgba(200,200,200,0.95));
+	--bg-defaut : url(../img/bg.jpg);
+	
+/*main */
+	--main-bdr-top:double;	
+	
+	
+ /* aside */
+	--aside-shadow: 	 0 0 5px black;
+	--as-ul-brd-top: 	solid 1px;/*ul order-top + li border-bottom*/
+	--highlight-bg-li :	inset 0 0 0 5rem rgba(255, 99, 71, 0.1);
+	--aside-txt-shadow: 1px 1px 1px gray;
+	--details-marker:	#4A83E2;
+	--bg-details-a: 	rgba(0, 0, 0, 0.05);
+	
+ /* label before hide/show aside */	
+	--lrs-stroke:		1px white;/*text-stroke*/
+	--lrs-txt-shadow:	1px 1px 1px black;/*text-shadox*/
+	--lrs-b-color:		#2D64BB;
+	
+/* form */
+    --bg-form-el: 		rgba(255, 255, 255, 0.8);	
+	--bg-aside-ipt: 	rgba(255, 255, 255, 0.3);
+	
+}

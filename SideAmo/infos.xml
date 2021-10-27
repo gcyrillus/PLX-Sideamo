@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title>
+		<![CDATA[SideAmo]]>
+	</title>
+	<author>
+		<![CDATA[GCyrillus]]>
+	</author>
+	<version>1.0</version>
+	<date>25/10/2021</date>
+	<site>https://re7net.com</site>
+	<description>
+		<![CDATA[Un autre theme de base responsive<br> 
+		- avec une sidebar amovible glissante<br>
+		- reprise de du bg du theme par défaut, style des tags et de la police.<br>
+		- couleurs de fond et texte injecté via des variables CSS facilement modifiables dans un fichier style <code>var.css</code> dédié.]]>
+	</description>
+</document>
